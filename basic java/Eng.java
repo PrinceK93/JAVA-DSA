@@ -1,6 +1,6 @@
-public class string {
+public class Eng {
     public static void main(String[] args) {
-        String name = "prince";
+        java.lang.String name = "prince";
         System.out.println(name);
     }
 }
