@@ -1,8 +1,8 @@
 public class GreaterNumberIn4 {
    
     public static void main(String[] args) {
+        
         int a = 30, b = 45, c = 220, d = 18;
-
         int greatest;
 
         if (a >= b && a >= c && a >= d) {
