@@ -1,6 +1,6 @@
 public class DigitsOfNumber {
     public static void main(String[] args) {
-        int num = 1234;
+        int num = 123456;
         int cpy = num;
         int count = 0;
 
