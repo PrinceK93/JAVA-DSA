@@ -8,7 +8,7 @@ public class PrintTable {
         TablePrint(num, i+1);
     }
     public static void main(String[] args) {
-        int num = 5; 
+        int num = 5; //any number  
         TablePrint(num,1);
     }
 }
