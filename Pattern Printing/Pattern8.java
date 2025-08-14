@@ -12,7 +12,7 @@ public class Pattern8 {
                 else if (col == 1 || col == n) {
                     System.out.print("*");
                 }
-                // Spaces inside
+                
                 else {
                     System.out.print(" ");
                 }
