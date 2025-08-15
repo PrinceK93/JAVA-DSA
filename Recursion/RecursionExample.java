@@ -5,7 +5,7 @@ public class RecursionExample {
         if (n == 0 || n == 1) {
             return 1;
         }
-        // Recursive case: call the same method with (n-1)
+
         return n * factorial(n - 1);
     }
     
