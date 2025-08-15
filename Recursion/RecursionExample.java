@@ -1,6 +1,5 @@
 public class RecursionExample {
 
-    // Recursive method to calculate factorial
     static int factorial(int n) {
         // Base case: stop recursion
         if (n == 0 || n == 1) {
