@@ -9,7 +9,7 @@ public class DigitsOfNumber {
             count++;
             cpy =cpy/10;
         }
-        
+        // divide and show the diigt
         while(num!=0){
             int pow =(int)Math.pow(10,count-1);
             System.out.println(num/pow);
