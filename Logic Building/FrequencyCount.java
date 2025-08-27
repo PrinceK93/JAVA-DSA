@@ -2,6 +2,7 @@ import java.util.HashMap;
 
 public class FrequencyCount {
     public static void main(String[] args) {
+
         int num = 724272;
 
         HashMap<Integer, Integer> map = new HashMap<>();
@@ -16,6 +17,7 @@ public class FrequencyCount {
             }
             num = num / 10;
         }
+        
         System.out.println(map);
     }
 }
