@@ -5,7 +5,7 @@ public class printDigit {
         }
         System.err.println("hello");
     }
-// new
+    
     public static void main(String[] args) {
         //function call from here
     }
