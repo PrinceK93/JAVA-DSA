@@ -8,7 +8,7 @@ public class GCD {
                 gcd = i;
             }
         }
-         // call
+         
         System.out.println("GCD is: " + gcd);
     }
 }
