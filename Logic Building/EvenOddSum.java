@@ -4,6 +4,7 @@ public class EvenOddSum {
         int position = 0;
         int evenSum = 0;
         int oddSum = 0;
+        
         while (num!=0) {
         int lastdigit = num % 10;
         position++;
