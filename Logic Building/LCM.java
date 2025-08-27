@@ -10,6 +10,7 @@ public class LCM {
             a = b;
             b = rem;
         }
+        
         int lcm = (acpy*bcpy)/b;
         System.out.println(lcm);
     }
