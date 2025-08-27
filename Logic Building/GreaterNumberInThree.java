@@ -1,6 +1,6 @@
 public class GreaterNumberInThree {
     public static void main(String[] args) {
-        int a = 2,b = 3,c = 4;
+        int a = 2,b = 31,c = 4;
 
         if(a>b){
             System.out.println("a is greater number");
