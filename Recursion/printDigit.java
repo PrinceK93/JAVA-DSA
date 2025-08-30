@@ -6,6 +6,6 @@ public class printDigit {
         System.err.println("hello");
     }
         public static void main(String[] args) {
-        //function call from here
+        
     }
 }
