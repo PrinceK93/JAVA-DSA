@@ -17,3 +17,4 @@ public class DigitsOfNumber {
         }
     }
 }
+// easy for count
