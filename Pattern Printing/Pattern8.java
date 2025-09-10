@@ -4,7 +4,7 @@ public class Pattern8 {
 
         for (int row = 1; row <= n; row++) {
             for (int col = 1; col <= n; col++) {
-                // Top, middle, and bottom rows full of stars
+                // Top, middle, and bottom rows full
                 if (row == 1 || row == n || row == (n / 2) + 1) {
                     System.out.print("*");
                 }
