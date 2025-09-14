@@ -8,6 +8,7 @@ public class RecursionExample {
 
         return n * factorial(n - 1);
     }
+
     
     public static void main(String[] args) {
         int number = 5;
