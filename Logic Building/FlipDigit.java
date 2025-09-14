@@ -1,5 +1,6 @@
 public class FlipDigit {
     public static void main(String[] args) {
+        
         int num = 32145;
         int position = 0;
         int sum = 0;
