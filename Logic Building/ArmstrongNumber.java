@@ -17,7 +17,6 @@ public class ArmstrongNumber {
             sum = sum + (int)Math.pow(digits, count);
             cpy = cpy/10;
         }
-        
         System.out.println(num == sum?"Armstrong number":"Not a Armstrong Number");
     }
 }
