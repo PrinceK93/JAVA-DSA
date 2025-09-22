@@ -19,5 +19,6 @@ public class EvenOddSum {
     }
         System.out.println("odd position sum : " +oddSum);
         System.out.println("even position sum : " +evenSum);
+        
     }
 }
