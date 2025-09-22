@@ -13,7 +13,6 @@ public class Swapdigit {
         // Remove last digit from middle part
         middle = middle / 10;
 
-        // Build the new number
         int swapped = lastDigit * (int)Math.pow(10, digits - 1) + middle * 10 + firstDigit;
 
         System.out.println("Original Number: " + original);
