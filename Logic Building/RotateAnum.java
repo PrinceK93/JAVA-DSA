@@ -14,5 +14,6 @@ public class RotateAnum {
         
         int rotated = lastPart * multiplier + firstPart;
         System.out.println("Rotated number: " + rotated);
+        
     }
 }
