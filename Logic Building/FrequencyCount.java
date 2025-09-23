@@ -17,6 +17,7 @@ public class FrequencyCount {
             }
             num = num / 10;
         }
+        
         System.out.println(map);
     }
 }
