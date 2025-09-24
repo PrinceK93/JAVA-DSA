@@ -5,7 +5,6 @@ public class LCM {
         int b = 24;
         int acpy = a;
         int bcpy = b;
-
         while(a%b!=0){
             int rem = a%b;
             a = b;
