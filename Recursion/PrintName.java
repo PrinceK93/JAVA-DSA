@@ -7,7 +7,6 @@ public class PrintName {
         System.out.println("My Name Is Prince "+ num);
          NamePrint(num-1);
     }
-// Main 
     public static void main(String[] args) {
        NamePrint(5);
     }
