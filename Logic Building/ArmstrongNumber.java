@@ -2,7 +2,7 @@ public class ArmstrongNumber {
     public static void main(String[] args) {
  
         int num = 1;
-        int cpy = num;
+        int cpy = num; 
         int count = 0;
         int sum = 0;
 
