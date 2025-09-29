@@ -12,7 +12,7 @@ public class ArmstrongNumber {
         }
         cpy = num;
 
-        while (cpy != 0) {
+        while (cpy != 0) { 
             int digits = cpy % 10;
             sum = sum + (int)Math.pow(digits, count);
             cpy = cpy/10;
