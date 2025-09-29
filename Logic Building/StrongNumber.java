@@ -7,7 +7,7 @@ public class StrongNumber {
             return digits * fact(digits - 1);
         }
     }
-
+ 
     public static void main(String[] args) {
         int num = 145;
         int cpy = num;
