@@ -9,7 +9,7 @@ public class GCD {
                 gcd = i;
             }
         }
-         
+          
         System.out.println("GCD is: " + gcd);
     }
 }
