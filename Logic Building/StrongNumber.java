@@ -15,7 +15,7 @@ public class StrongNumber {
         
         while (cpy != 0) {
             int digits = cpy % 10;
-            sum = sum + fact(digits);
+            sum = sum + fact(digits); 
             cpy = cpy/10;
         } 
         System.out.println(num == sum?"strong number":"not strong number");
