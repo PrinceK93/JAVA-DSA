@@ -6,7 +6,7 @@ public class Square {
             for(int column = 1 ; column <= range ; column++){
                 System.out.print("*");
             }
-            
+             
             System.out.println();
         }
     }
