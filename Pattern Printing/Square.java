@@ -1,4 +1,4 @@
-public class Square {
+public class Square { 
     public static void main(String[] args) {
         int range = 5;
         //this will print square 
