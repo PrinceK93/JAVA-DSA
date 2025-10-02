@@ -9,6 +9,6 @@ public class PrintTable {
     } 
     public static void main(String[] args) {
         int num = 2; 
-        TablePrint(num,1);
+        TablePrint(num,1); 
     }
 }
