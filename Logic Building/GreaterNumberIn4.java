@@ -8,7 +8,7 @@ public class GreaterNumberIn4 {
         if (a >= b && a >= c && a >= d) {
             greatest = a;
         } else if (b >= a && b >= c && b >= d) {
-            greatest = b;
+            greatest = b; 
         } else if (c >= a && c >= b && c >= d) {
             greatest = c;
         } else {
