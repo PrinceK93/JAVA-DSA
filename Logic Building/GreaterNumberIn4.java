@@ -6,7 +6,7 @@ public class GreaterNumberIn4 {
         int greatest;
 
         if (a >= b && a >= c && a >= d) {
-            greatest = a;
+            greatest = a; 
         } else if (b >= a && b >= c && b >= d) {
             greatest = b; 
         } else if (c >= a && c >= b && c >= d) {
