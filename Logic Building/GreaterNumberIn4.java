@@ -15,7 +15,7 @@ public class GreaterNumberIn4 {
             greatest = d;
         }
 
-        System.out.println("Greatest number is: " + greatest);
+        System.out.println("Greatest number is: " + greatest); 
     }
 
 }
