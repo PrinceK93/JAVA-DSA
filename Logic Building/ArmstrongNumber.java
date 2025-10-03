@@ -3,7 +3,7 @@ public class ArmstrongNumber {
  
         int num = 1;
         int cpy = num; 
-        int count = 0;
+        int count = 0; 
         int sum = 0;
 
         while (cpy != 0) {
