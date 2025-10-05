@@ -10,7 +10,7 @@ public class Hollow {
                 } else {  
                     System.out.print(" ");
                 }  
-            }
+            } 
             System.out.println(); 
         }
     }
