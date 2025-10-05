@@ -9,5 +9,5 @@ public class Square {
              
             System.out.println();
         } 
-    }
+    } 
 } 
