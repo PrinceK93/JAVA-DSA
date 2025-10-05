@@ -4,7 +4,7 @@ public class Square {
         //this will print square 
         for(int row = 1 ; row <= range ;row++){
             for(int column = 1 ; column <= range ; column++){  
-                System.out.print("*");
+                System.out.print("*"); 
             } 
              
             System.out.println();
