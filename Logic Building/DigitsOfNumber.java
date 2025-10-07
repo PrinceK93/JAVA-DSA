@@ -5,7 +5,7 @@ public class DigitsOfNumber {
         int cpy = num;
         int count = 0;
         
-        while(cpy!=0){ 
+        while(cpy!=0){  
             count++;
             cpy =cpy/10;
         }
