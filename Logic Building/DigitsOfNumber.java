@@ -8,7 +8,7 @@ public class DigitsOfNumber {
         while(cpy!=0){  
             count++;
             cpy =cpy/10;
-        }
+        } 
     
         while(num!=0){ 
             int pow =(int)Math.pow(10,count-1); 
