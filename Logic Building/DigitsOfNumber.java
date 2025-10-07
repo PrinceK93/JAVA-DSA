@@ -11,7 +11,7 @@ public class DigitsOfNumber {
         }
     
         while(num!=0){ 
-            int pow =(int)Math.pow(10,count-1);
+            int pow =(int)Math.pow(10,count-1); 
             System.out.println(num/pow);
             num = num%pow;
             count--;
