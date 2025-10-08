@@ -6,7 +6,7 @@ public class PrintTable {
         }
         System.out.println(num + " x " + i + " = " + (num * i)); 
         TablePrint(num, i+1);
-    }  
+    }   
     public static void main(String[] args) {
         int num = 2; 
         TablePrint(num,1); 
