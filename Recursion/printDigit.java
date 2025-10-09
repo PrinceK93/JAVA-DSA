@@ -7,5 +7,5 @@ public class printDigit {
     }
             public static void main(String[] args) {
          
-    }
+    } 
 }
