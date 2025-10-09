@@ -3,7 +3,7 @@ public class printDigit {
         if(a == 0 || b == 0){
             return; 
         } 
-        System.err.println("hello");
+        System.err.println("hello"); 
     }
             public static void main(String[] args) {
           
