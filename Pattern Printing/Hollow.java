@@ -9,9 +9,7 @@ public class Hollow {
                     System.out.print("*");   
                 } else if {  
                     System.out.print(" ");
-                }  
-                else {  
-                    
+                }
             } 
             System.out.println(); 
         }
