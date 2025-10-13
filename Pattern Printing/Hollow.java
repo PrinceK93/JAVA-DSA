@@ -7,7 +7,7 @@ public class Hollow {
             for (int col = 1; col <= 5; col++) { 
                 if (row == 1 || row == range || col == 1 || col == range) { 
                     System.out.print("*");   
-                } else if {  
+                } else {  
                     System.out.print(" ");
                 }
             } 
