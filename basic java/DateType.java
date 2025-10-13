@@ -7,7 +7,7 @@ public class DateType {
     
         Date date = new Date();
         System.out.println(date);
- 
+  
         // change the date and time and months use Calendar
         Calendar c = Calendar.getInstance();
         c.setTime(date);
