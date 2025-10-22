@@ -13,6 +13,10 @@ public class Eng {
 
         java.lang.String name = "prince"; 
         System.out.println(name); 
+
+        java.lang.String name = "prince"; 
+        System.out.println(name); 
+        
         
     }  
 } 
