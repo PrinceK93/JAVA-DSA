@@ -5,7 +5,7 @@ public class ArmstrongNumber {
         int cpy = num; 
         int count = 0; 
         int sum = 0;
- 
+  
         while (cpy != 0) {
             count++;
             cpy = cpy / 10;
