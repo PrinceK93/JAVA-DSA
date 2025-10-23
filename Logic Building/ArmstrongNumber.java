@@ -9,7 +9,7 @@ public class ArmstrongNumber {
         while (cpy != 0) {
             count++;
             cpy = cpy / 10;
-        }
+        } 
         cpy = num;
 
         while (cpy != 0) { 
