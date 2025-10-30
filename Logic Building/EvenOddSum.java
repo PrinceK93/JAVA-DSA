@@ -1,7 +1,7 @@
 public class EvenOddSum {
     public static void main(String[] args) {
         
-        int num = 1234;
+        int num = 1234; 
         int position = 0;
         int evenSum = 0;
         int oddSum = 0;
