@@ -11,7 +11,7 @@ public class GreaterNumberIn4 {
             greatest = b; 
         } else if (c >= a && c >= b && c >= d) {
             greatest = c;
-        } else {
+        } else { 
             greatest = d;
         }
 
