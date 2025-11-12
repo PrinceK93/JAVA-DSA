@@ -6,7 +6,7 @@ public class Pattern7 {
             for (int col = 1; col <= n; col++) {
                 if (row == 1 || col == n - row + 1) {   
                     System.out.print("*"); 
-                } else {  
+                } else {   
                     System.out.print(" "); 
                 } 
             }   
