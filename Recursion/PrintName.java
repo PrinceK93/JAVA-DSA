@@ -4,7 +4,7 @@ public class PrintName {
         if(num==0){
             return;
         }  
-        System.out.println("My Name Is Prince "+ num);
+        System.out.println("My Name Is Prince "+ num); 
          NamePrint(num-1);
     }
     public static void main(String[] args) {
