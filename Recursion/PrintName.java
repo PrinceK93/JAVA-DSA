@@ -5,7 +5,7 @@ public class PrintName {
             return;
         }  
         System.out.println("My Name Is Prince "+ num); 
-         NamePrint(num-1);
+         NamePrint(num-1); 
     }
     public static void main(String[] args) {
        NamePrint(5);
