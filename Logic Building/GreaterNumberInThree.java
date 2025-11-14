@@ -10,7 +10,7 @@ public class GreaterNumberInThree {
             System.out.println("b is greater number");
         }
         else{
-            System.out.println("c is greater number");
+            System.out.println("c is greater number"); 
         }
     }
 }
