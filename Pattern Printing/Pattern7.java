@@ -8,7 +8,7 @@ public class Pattern7 {
                     System.out.print("*"); 
                 } else {   
                     System.out.print(" "); 
-                } 
+                }  
             }   
             System.out.println();
         }
