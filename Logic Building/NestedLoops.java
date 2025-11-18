@@ -5,5 +5,5 @@ public class NestedLoops {
                 System.out.println(i + " " + j);
             }
         }
-    }
+    } 
 }
