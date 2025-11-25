@@ -12,7 +12,7 @@ public class GreaterNumberIn4 {
         } else if (c >= a && c >= b && c >= d) {
             greatest = c; 
         } else { 
-            greatest = d;
+            greatest = d; 
         }
 
         System.out.println("Greatest number is: " + greatest); 
