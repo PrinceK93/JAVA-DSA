@@ -7,7 +7,7 @@ public class EvenOddSum {
         int oddSum = 0;
         
         while (num!=0) {
-        int lastdigit = num % 10;
+        int lastdigit = num % 10; 
         position++;
         if(position % 2 == 0){ 
             evenSum = evenSum + lastdigit;
