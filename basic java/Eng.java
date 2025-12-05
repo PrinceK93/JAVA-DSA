@@ -6,7 +6,7 @@ public class Eng {
         System.out.println(name);
 
         java.lang.String name = "prince"; 
-        System.out.println(name); 
+        System.out.println(name);  
         
     }
 } 
