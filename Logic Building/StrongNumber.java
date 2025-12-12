@@ -7,7 +7,7 @@ public class StrongNumber {
             return digits * fact(digits - 1);
         }
     }
-
+ 
     public static void main(String[] args) {
         int num = 145;
         int cpy = num;
@@ -15,9 +15,9 @@ public class StrongNumber {
         
         while (cpy != 0) {
             int digits = cpy % 10;
-            sum = sum + fact(digits);
+            sum = sum + fact(digits); 
             cpy = cpy/10;
-        }
+        } 
         System.out.println(num == sum?"strong number":"not strong number");
     }
 }

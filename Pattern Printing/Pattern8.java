@@ -9,15 +9,15 @@ public class Pattern8 {
                     System.out.print("*");
                 }
                 // First and last columns for vertical lines
-                else if (col == 1 || col == n) {
+                else if (col == 1 || col == n) { 
                     System.out.print("*");
                 }
-            
+        
                 else {
                     System.out.print(" ");
                 }
             }
-    
+
             System.out.println();
         }
     }

@@ -1,16 +1,16 @@
-public class Pattern7 {
+ public class Pattern7 {
     public static void main(String[] args) {
         int n = 5; 
         // using if-else
-        for (int row = 1; row <= n; row++) {
+        for (int row = 1; row <= n; row++) { 
             for (int col = 1; col <= n; col++) {
-                if (row == 1 || col == n - row + 1) { 
-                    System.out.print("*");
-                } else {
-                    System.out.print(" ");
-                }
-            }
+                if (row == 1 || col == n - row + 1) {   
+                    System.out.print("*"); 
+                } else {   
+                    System.out.print(" "); 
+                }  
+            }    
             System.out.println();
-        }
+        } 
     }
 }
