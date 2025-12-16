@@ -1,5 +1,5 @@
 package leetcode;
 
-public class NQueens2 {
+public class NQueens2 { 
     
 }
