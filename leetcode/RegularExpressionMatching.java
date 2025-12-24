@@ -11,7 +11,7 @@ class Solution {
         for (int j = 1; j <= n; j++) {
             if (p.charAt(j - 1) == '*') {
                 dp[0][j] = dp[0][j - 2];
-            }
+            } 
         }
         // for calls
         for (int i = 1; i <= m; i++) {
