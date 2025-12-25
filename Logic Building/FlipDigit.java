@@ -5,7 +5,7 @@ public class FlipDigit {
         int position = 0;
         int sum = 0;
 
-        while (num != 0){
+        while (num != 0){ 
             int singleDigit = num % 10;
             position++;
             int pow = (int)Math.pow(10,singleDigit-1);
