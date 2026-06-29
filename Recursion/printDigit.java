@@ -1,11 +1,14 @@
 public class printDigit {
-    static void num(int a,int b){
-        if(a == 0 || b == 0){
+    static void printDigit(int num){
+        if(num == 0){
             return;  
-        }  
-        System.err.println("hello");  
+        } 
+         
+        printDigit(num/10);
+        System.out.println(num%10);
+
     }
             public static void main(String[] args) {  
-          num(5,2);
+          printDigit(12345);
     } 
 }
