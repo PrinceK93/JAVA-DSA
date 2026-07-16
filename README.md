@@ -35,7 +35,6 @@ Graph/
 DynamicProgramming/
 Greedy/
 Backtracking/
-BitManipulation/
 SlidingWindow/
 TwoPointers/
 Miscellaneous/
