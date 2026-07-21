@@ -18,7 +18,7 @@ java -version
 
 Persisting the change for the current user (PowerShell): run as the user (no admin required):
 
-```powershell
+```powershell 
 [Environment]::SetEnvironmentVariable('JAVA_HOME', 'C:\Users\princ\.jdk\jdk-21.0.8', 'User')
 #$env:Path currently includes other entries; prepend JDK bin to the user PATH:
 $userPath = [Environment]::GetEnvironmentVariable('Path', 'User')
