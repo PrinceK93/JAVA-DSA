@@ -4,8 +4,6 @@ public static void main(String[] args) {
      
     java.lang.String name = "prince"; 
     System.out.println(name);   
-     
 }
 } 
- 
 //all java oops done
