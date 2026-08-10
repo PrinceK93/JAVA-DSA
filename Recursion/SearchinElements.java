@@ -5,7 +5,7 @@ public class SearchinElements {
     }
     if(arr[index] == search){
         return true;
-    }
+    } 
     return isFound(arr, index+1, search);
    }
    public static void main(String[] args) {
