@@ -7,7 +7,7 @@ Quick verification (already done):
 ```
 C:\Users\princ\.jdk\jdk-21.0.8\bin\java -version
 ```
-
+ 
 Set `JAVA_HOME` and update `PATH` for the current PowerShell session:
 
 ```powershell
