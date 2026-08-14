@@ -65,7 +65,7 @@ I solve problems from platforms such as:
 ## 📈 Progress
 
 - ✅ Learning consistently
-- ✅ Uploading solutions regularly
+- ✅ Uploading solutions regularly 
 - 🔄 Repository updated as I learn
 
 ## 🤝 Connect
