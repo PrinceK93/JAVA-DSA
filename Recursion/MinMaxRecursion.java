@@ -6,7 +6,7 @@ public class MinMaxRecursion {
             System.out.println("Minimum = " + min);
             System.out.println("Maximum = " + max);
             return;
-        }
+        } 
 
         if (arr[index] < min) {
             min = arr[index];
