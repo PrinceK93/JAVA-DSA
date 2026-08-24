@@ -11,7 +11,7 @@ public class MinMaxRecursion {
         if (arr[index] < min) {
             min = arr[index];
         }
-
+ 
         if (arr[index] > max) {
             max = arr[index];
         }
