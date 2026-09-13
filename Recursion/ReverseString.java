@@ -8,9 +8,7 @@ public class ReverseString {
         return smallString + firstChar;
 
     }
-
     public static void main(String[] args) {
-
     String r = reverse("prince kumar");
     System.out.println(r);
     }
